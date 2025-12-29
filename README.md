@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/banner.png" alt="Banner" />
+ <img width="1536" height="1024" alt="profile" src="https://github.com/user-attachments/assets/6127dc16-38c2-45be-a02e-86a238092cf3" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Sandhya</h1>
@@ -14,15 +15,38 @@
 
 ## 🚀 About Me
 
-- 💻 **Software Developer** with hands-on experience in frontend development
-- ⚛️ Specialized in **Next.js, React & modern UI frameworks**
-- 🎨 Strong interest in **UI/UX & dark-themed dashboards**
-- 🧠 Continuously learning and improving code quality & performance
-- 📂 Building production-ready and portfolio-driven projects
-
+- 👩‍💻 Currently working as a **Software Developer**
+- 🛒 Worked on **E-commerce platforms** with end-to-end user flows
+- 📱 Built **Mobile Applications** using React Native
+- 🧑‍💼 Developed **Admin Panels** for managing products, orders, users & analytics
+- 💳 Implemented **Payment Integrations** (online payments, COD flows)
+- 🔄 Experience with **Real-time Order Status & Tracking**
+- 🎨 Strong UI/UX mindset with design-to-code using **Figma**
+- 🚀 Focused on writing clean, maintainable, production-ready code
 ---
 
 ## 🛠️ Tech Stack
+
+### 🌐 Frontend & Mobile
+- **Next.js**
+- **React.js**
+- **React Native**
+- **Vite**
+- **Redux**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+### 🎨 UI & Styling
+- **Tailwind CSS**
+- **Bootstrap**
+- **Material UI**
+- **Shadcn UI**
+
+### 🔧 Backend & Tools
+- **Node.js**
+- **Figma** (UI/UX Design & Prototyping)
+- **Git & GitHub**
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
@@ -36,28 +60,31 @@
 
 ---
 
-## 🧩 Featured Work
+## 🧩 Work Highlights
 
-- 🔹 **Crypto Trading UI**  
-  Frontend-only crypto trading platform UI built with Next.js and Tailwind CSS.
+- 🛒 **E-commerce Applications**
+  - Product listing, cart, checkout & order flow
+  - Payment gateway integration
+  - Order management & status updates
 
-- 🔹 **Admin Dashboards & Internal Tools**  
-  Clean, scalable dashboards with form handling and validations.
+- 🧑‍💼 **Admin Panels**
+  - Dashboard analytics
+  - Order & user management
+  - Role-based access & controls
 
-- 🔹 **E-commerce & Data-Driven Interfaces**  
-  User-centric interfaces with performance-focused design.
+- 📱 **Mobile Apps**
+  - Cross-platform apps using React Native
+  - API integration & state management
+  - Smooth UI & performance optimization
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyakumari01&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
 
 ---
 
